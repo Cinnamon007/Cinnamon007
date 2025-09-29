@@ -1,7 +1,9 @@
 ## -Hi there! My name is Cindy Garza.-
 
+
 ## -About Me-
 ### I am currently a Computer Science student at UTRGV. I am currently interested in starting my coding journey. I hope to gain experience as I progress, eventually reaching a level in where I can become a Software Engineer. 
+
 
 
 ## -Contact Info-
